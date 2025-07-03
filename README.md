@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Usman Haider</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Usman Haider</h1>
 <h3 align="center">A passionate MERN developer from Pakistan</h3>
 
 <h3 align="left">Connect with me:</h3>
