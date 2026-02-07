@@ -12,7 +12,7 @@
 - 🔭 I'm currently working on **Full Stack MERN Applications**
 - 🌱 I'm currently learning **Docker, TypeScript, and Next.js**
 - 💬 Ask me about **React, Node.js, MongoDB, Express, and JavaScript**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **musmanvk18@gmail.com**
 - ⚡ Fun fact: **I love turning coffee into code!**
 
 ---
